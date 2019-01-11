@@ -1,0 +1,129 @@
+{
+  "data": [
+    {
+      "image": "",
+      "id": 1,
+      "channelName": "胖",
+      "status": 1
+    },
+    {
+      "image": "",
+      "id": 2,
+      "channelName": "○",
+      "status": 1
+    },
+    {
+      "image": "",
+      "id": 3,
+      "channelName": "优购排行榜",
+      "status": 1,
+      "urlList": [
+        "http://dsjbak.u03.live.17ugo.com/ugo.m3u8"
+      ]
+    },
+    {
+      "image": "",
+      "id": 3,
+      "channelName": "家有精选",
+      "status": 1,
+      "urlList": [
+        "http://t.cdn-live.duolebo.com/JYGW1/live02/index.m3u8"
+      ]
+    },
+    {
+      "image": "",
+      "id": 3,
+      "channelName": "优购Live",
+      "status": 1,
+      "urlList": [
+        "http://dsjbak.u01.live.17ugo.com/ugo.m3u8"
+      ]
+    },
+    {
+      "image": "",
+      "id": 3,
+      "channelName": "聚鲨环球精选",
+      "status": 1,
+      "urlList": [
+        "http://hometv.c01.live.sharkselection.com/ghs.m3u8"
+      ]
+    },
+    {
+      "image": "",
+      "id": 3,
+      "channelName": "聚鲨环球精选",
+      "status": 1,
+      "urlList": [
+        "http://hometv.c03.live.sharkselection.com/ghs.m3u8"
+      ]
+    },
+    {
+      "image": "",
+      "id": 3,
+      "channelName": "CCTV 风云音乐",
+      "status": 1,
+      "urlList": [
+        "http://120.198.235.67/112.50.233.156/PLTV/88888888/224/3221226591/1.m3u8"
+      ]
+    },
+    {
+      "image": "",
+      "id": 3,
+      "channelName": "CCTV 发现之旅",
+      "status": 1,
+      "urlList": [
+        "http://ott.js.chinamobile.com/PLTV/4/224/3221227030/index.m3u8",
+        "http://120.198.235.68/223.110.241.204:6610/gitv/live1/G_FAXIANZL/G_FAXIANZL/index.m3u8"
+      ]
+    },
+    {
+      "image": "",
+      "id": 3,
+      "channelName": "CCTV 文化精品",
+      "status": 1,
+      "urlList": [
+        "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000621/index.m3u8"
+      ]
+    },
+    {
+      "image": "",
+      "id": 3,
+      "channelName": "CCTV 老故事",
+      "status": 1,
+      "urlList": [
+        "http://120.198.235.68/223.110.241.137:6610/gitv/live1/G_LAOGUSHI/G_LAOGUSHI/index.m3u8",
+        "http://120.198.235.68/223.110.243.155/PLTV/4/224/3221227043/index.m3u8",
+        "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000624/index.m3u8",
+        "http://cbn-pb.cbchot.com/live/ch011_1.m3u8"
+      ]
+    },
+    {
+      "image": "",
+      "id": 3,
+      "channelName": "CCTV 书画",
+      "status": 1,
+      "urlList": [
+        "http://123.59.22.163:9999/hls-live/livepkgr/_definst_/shtv/shtv.m3u8",
+        "rtmp://112.73.66.58/livepkgr/shtv"
+      ]
+    },
+    {
+      "image": "",
+      "id": 3,
+      "channelName": "CCTV 新科动漫",
+      "status": 1,
+      "urlList": [
+        "http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106607563_800.m3u8"
+      ]
+    },
+    {
+      "image": "",
+      "id": 3,
+      "channelName": "CCTV 女性时尚",
+      "status": 1,
+      "urlList": [
+        "http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8"
+      ]
+    }
+  ]
+}

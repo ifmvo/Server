@@ -1,0 +1,114 @@
+{
+  "data": [
+    {
+      "image": "",
+      "thumb": "http://s2.starschinalive.com/thumb/418/thumb@320_180.jpg",
+      "id": 101,
+      "channelName": "湖南卫视",
+      "status": 1,
+      "urlList": [
+        "http://ivi.bupt.edu.cn/hls/hunanhd.m3u8",
+        "http://223.110.241.200:6610/gitv/live1/HNWS-HD/HNWS-HD/index.m3u8"
+      ]
+    },
+    {
+      "image": "",
+      "thumb": "http://s2.starschinalive.com/thumb/58/thumb@320_180.jpg",
+      "id": 101,
+      "channelName": "浙江卫视",
+      "status": 1,
+      "urlList": [
+        "http://223.110.241.200:6610/gitv/live1/ZJWS-HD/ZJWS-HD/index.m3u8"
+      ]
+    },
+    {
+      "image": "",
+      "thumb": "http://s2.starschinalive.com/thumb/38/thumb@320_180.jpg",
+      "id": 101,
+      "channelName": "CCTV-1 综合",
+      "status": 1,
+      "urlList": [
+        "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8"
+      ]
+    },
+    {
+      "image": "",
+      "thumb": "http://s2.starschinalive.com/thumb/44/thumb@320_180.jpg",
+      "id": 101,
+      "channelName": "CCTV-6 电影",
+      "status": 1,
+      "urlList": [
+        "http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8"
+      ]
+    },
+    {
+      "image": "",
+      "thumb": "http://s2.starschinalive.com/thumb/40/thumb@320_180.jpg",
+      "id": 101,
+      "channelName": "CCTV-13 新闻",
+      "status": 1,
+      "urlList": [
+        "http://ivi.bupt.edu.cn/hls/cctv13hd.m3u8"
+      ]
+    },
+    {
+      "image": "",
+      "thumb": "http://s2.starschinalive.com/thumb/39/thumb@320_180.jpg",
+      "id": 101,
+      "channelName": "CCTV-5 体育",
+      "status": 1,
+      "urlList": [
+        "http://ivi.bupt.edu.cn/hls/cctv5.m3u8"
+      ]
+    },
+    {
+      "image": "",
+      "thumb": "http://s2.starschinalive.com/thumb/57/thumb@320_180.jpg",
+      "id": 101,
+      "channelName": "江苏卫视",
+      "status": 1,
+      "urlList": [
+        "http://223.110.241.200:6610/gitv/live1/JSWS-HD/JSWS-HD/index.m3u8"
+      ]
+    },
+    {
+      "image": "",
+      "thumb": "http://s2.starschinalive.com/thumb/42/thumb@320_180.jpg",
+      "id": 101,
+      "channelName": "CCTV-3 综艺",
+      "status": 1,
+      "urlList": [
+        "http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8"
+      ]
+    },
+    {
+      "image": "",
+      "thumb": "http://s2.starschinalive.com/thumb/141/thumb@320_180.jpg",
+      "id": 101,
+      "channelName": "CCTV-12 社会与法",
+      "status": 1,
+      "urlList": [
+      ]
+    },
+    {
+      "image": "",
+      "thumb": "http://s2.starschinalive.com/thumb/85/thumb@320_180.jpg",
+      "id": 101,
+      "channelName": "山东卫视",
+      "status": 1,
+      "urlList": [
+        "http://ksdlive.iqilu.com/live2/sdtv.m3u8"
+      ]
+    },
+    {
+      "image": "",
+      "thumb": "http://s2.starschinalive.com/thumb/85/thumb@320_180.jpg",
+      "id": 301,
+      "channelName": "陈雄六点半",
+      "status": 1,
+      "urlList": [
+        "http://tx.hls.huya.com/huyalive/94525224-2655537474-11405446604132450304-2704233350-10057-A-0-1.m3u8"
+      ]
+    }
+  ]
+}

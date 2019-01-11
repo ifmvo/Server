@@ -1,0 +1,116 @@
+{
+  "data": [
+    {
+      "image": "",
+      "thumb": "http://s2.starschinalive.com/thumb/38/thumb@320_180.jpg",
+      "id": 101,
+      "channelName": "CCTV-1",
+      "status": 1
+    },
+    {
+      "image": "",
+      "thumb": "http://s2.starschinalive.com/thumb/41/thumb@320_180.jpg",
+      "id": 102,
+      "channelName": "CCTV-2",
+      "status": 1
+    },
+    {
+      "image": "",
+      "thumb": "http://s2.starschinalive.com/thumb/42/thumb@320_180.jpg",
+      "id": 103,
+      "channelName": "CCTV-3",
+      "status": 1
+    },
+    {
+      "image": "",
+      "thumb": "http://s2.starschinalive.com/thumb/43/thumb@320_180.jpg",
+      "id": 104,
+      "channelName": "CCTV-4",
+      "status": 1
+    },
+    {
+      "image": "",
+      "thumb": "http://s2.starschinalive.com/thumb/39/thumb@320_180.jpg",
+      "id": 105,
+      "channelName": "CCTV-5",
+      "status": 1
+    },
+    {
+      "image": "",
+      "thumb": "http://s2.starschinalive.com/thumb/120/thumb@320_180.jpg",
+      "id": 150,
+      "channelName": "CCTV-5+",
+      "status": 1
+    },
+    {
+      "image": "",
+      "thumb": "http://s2.starschinalive.com/thumb/120/thumb@320_180.jpg",
+      "id": 106,
+      "channelName": "CCTV-6",
+      "status": 1
+    },
+    {
+      "image": "",
+      "thumb": "http://s2.starschinalive.com/thumb/120/thumb@320_180.jpg",
+      "id": 107,
+      "channelName": "CCTV-7",
+      "status": 1
+    },
+    {
+      "image": "",
+      "thumb": "http://s2.starschinalive.com/thumb/120/thumb@320_180.jpg",
+      "id": 108,
+      "channelName": "CCTV-8",
+      "status": 1
+    },
+    {
+      "image": "",
+      "thumb": "http://s2.starschinalive.com/thumb/120/thumb@320_180.jpg",
+      "id": 109,
+      "channelName": "CCTV-9",
+      "status": 1
+    },
+    {
+      "image": "",
+      "thumb": "http://s2.starschinalive.com/thumb/120/thumb@320_180.jpg",
+      "id": 110,
+      "channelName": "CCTV-10",
+      "status": 1
+    },
+    {
+      "image": "",
+      "thumb": "http://s2.starschinalive.com/thumb/120/thumb@320_180.jpg",
+      "id": 111,
+      "channelName": "CCTV-11",
+      "status": 1
+    },
+    {
+      "image": "",
+      "thumb": "http://s2.starschinalive.com/thumb/120/thumb@320_180.jpg",
+      "id": 112,
+      "channelName": "CCTV-12",
+      "status": 1
+    },
+    {
+      "image": "",
+      "thumb": "http://s2.starschinalive.com/thumb/120/thumb@320_180.jpg",
+      "id": 113,
+      "channelName": "CCTV-13",
+      "status": 1
+    },
+    {
+      "image": "",
+      "thumb": "http://s2.starschinalive.com/thumb/120/thumb@320_180.jpg",
+      "id": 114,
+      "channelName": "CCTV-14",
+      "status": 1
+    },
+    {
+      "image": "",
+      "thumb": "http://s2.starschinalive.com/thumb/120/thumb@320_180.jpg",
+      "id": 115,
+      "channelName": "CCTV-15",
+      "status": 1
+    }
+  ]
+}

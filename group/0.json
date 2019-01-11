@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "image": "",
+      "id": 0,
+      "title": "推荐",
+      "status": 1
+    },
+    {
+      "image": "",
+      "id": 1,
+      "title": "央视",
+      "status": 1
+    },
+    {
+      "image": "",
+      "id": 2,
+      "title": "卫视",
+      "status": 1
+    },
+    {
+      "image": "",
+      "id": 3,
+      "title": "娱乐",
+      "status": 1
+    },
+    {
+      "image": "",
+      "id": 4,
+      "title": "游戏",
+      "status": 1
+    },
+    {
+      "image": "",
+      "id": 5,
+      "title": "其他",
+      "status": 1
+    }
+  ]
+}
