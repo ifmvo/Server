@@ -1,0 +1,45 @@
+{
+  "data": {
+      "playback": [
+      		{
+              "sourceId": 1,
+              "sourceName": "源名称",
+              "playbackDays": 7,
+              "id": 2,
+              "url": "http://www.baidu.com",
+              "quality": 1,
+              "player": "IJK"
+            },
+            {
+              "sourceId": 1,
+              "sourceName": "源名称",
+              "playbackDays": 7,
+              "id": 2,
+              "url": "http://www.baidu.com",
+              "quality": 1,
+              "player": "IJK"
+            }
+      ],
+      "live": [
+      		{
+              "sourceId": 1,
+              "sourceName": "源名称",
+              "playbackDays": 7,
+              "id": 2,
+              "url": "http://www.baidu.com",
+              "quality": 1,
+              "player": "IJK"
+            },
+            {
+              "sourceId": 1,
+              "sourceName": "源名称",
+              "playbackDays": 7,
+              "id": 2,
+              "url": "http://www.baidu.com",
+              "quality": 1,
+              "player": "IJK"
+            }
+
+      ]
+    }
+}
