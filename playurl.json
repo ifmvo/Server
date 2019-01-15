@@ -44,7 +44,7 @@
         "sourceName": "源名称",
         "playbackDays": 7,
         "id": 2,
-        "url": "rtsp://113.136.42.45:554/PLTV/88888888/224/3221226087/10000100000000060000000001759104_0.smil",
+        "url": "http://localhost/wtvlive/migu2/608807420",
         "quality": 1,
         "player": "{\"android\" : \"IJK\", \"ios\": \"IJK\"}"
       },
@@ -53,7 +53,7 @@
         "sourceName": "源名称",
         "playbackDays": 7,
         "id": 2,
-        "url": "http://localhost/wtvlive/migu2/608807420",
+        "url": "rtsp://60.213.13.203:554/PLTV/88888888/224/3221225871/10000100000000060000000000219040_0.smil",
         "quality": 1,
         "player": "{\"android\" : \"IJK\", \"ios\": \"IJK\"}"
       }
