@@ -8,10 +8,7 @@
         "id": 2,
         "url": "http://localhost/wtvlive/migu2/608807420",
         "quality": 1,
-        "player": {
-          "android": "IJK",
-          "ios": "IJK"
-        }
+        "player": "{\"android\" : \"IJK\", \"ios\": \"IJK\"}"
       },
       {
         "sourceId": 1,
@@ -20,10 +17,7 @@
         "id": 2,
         "url": "rtsp://113.136.42.45:554/PLTV/88888888/224/3221226087/10000100000000060000000001759104_0.smil",
         "quality": 1,
-        "player": {
-          "android": "IJK",
-          "ios": "IJK"
-        }
+        "player": "{\"android\" : \"IJK\", \"ios\": \"IJK\"}"
       }
     ],
     "live": [
@@ -34,10 +28,7 @@
         "id": 2,
         "url": "160",
         "quality": 1,
-        "player": {
-          "android": "CIBN",
-          "ios": "CIBN"
-        }
+        "player": "{\"android\" : \"CIBN\", \"ios\": \"CIBN\"}"
       },
       {
         "sourceId": 1,
@@ -46,10 +37,7 @@
         "id": 2,
         "url": "http://www.baidu.com",
         "quality": 1,
-        "player": {
-          "android": "IJK",
-          "ios": "IJK"
-        }
+        "player": "{\"android\" : \"WEB\", \"ios\": \"WEB\"}"
       }
     ]
   }
